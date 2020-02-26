@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">WeatherTK</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="temp">50</string>
+    <string name="cityName">Manchester</string>
+    <string name="cityCountry">GB</string>
+    <string name="humid">Humidity: </string>
+    <string name="press">Pressure: </string>
+    <string name="tempmin">Temp Min: </string>
+    <string name="tempmax">Temp Max: </string>
+    <string name="sunset">Sunset: </string>
+    <string name="sunrise">Sunrise: </string>
+    <string name="lat">Lat: </string>
+    <string name="lon">Lon: </string>
+    <string name="degree">O</string>
+
+    <string name="pop_hint_city">Enter City</string>
+    <string name="pop_hint_country">Enter Country Code</string>
+    <string name="title_activity_maps">Map</string>
+
+</resources>
